@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>A Pen by  Jimmy</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+
+
+    <link rel="stylesheet" href="css/style.css">
+
+
+
+
+</head>
+
+<body>
+
+<ul>
+    <li>Jimmy</li>
+    <li>Gmail</li>
+    <li>Images</li>
+    <ii>
+        <li><i class="material-icons">apps</li></i>
+        <li><i class="material-icons">notifications</li></i>
+        <li><i class="material-icons">account_circle</li></i>
+</ul>
+<div class="logo">
+
+</div>
+
+<div class="search">
+    <input type="text" class="box" placeholder="search" width="820px" background-repeat="repeat-y">
+    </input>
+</div>
+<button type="button" class="button" placeholder="Google Search" onclick="window.open('http://data.whicdn.com/images/159915071/superthumb.jpg')">Google Search
+</button>
+<button type="button" class="buttont" onclick="window.open('http://data.whicdn.com/images/159915071/superthumb.jpg')">I'm Feeling Lucky
+</button>
+</div>
+<div id="footer">
+    <ul>
+        <li>Advertisting</li>
+        <li>Business</li>
+        <li>About</li>
+    </ul>
+</div>
+<div id="footerr">
+    <ul>
+        <li>Privacy</li>
+        <li>Terms</li>
+        <li>Settings</li>
+    </ul>
+</div>
+
+
+
+
+
+</body>
+</html>

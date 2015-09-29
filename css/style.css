@@ -1,0 +1,52 @@
+.logo {
+  height:500px;
+  width:800px;
+  margin: 0 auto;
+  text-align: 580px;
+  background-image: url('http://i.imgur.com/StqPRDJ.jpg');
+  background-repeat:no-repeat;
+
+}
+ul {
+ text-align:right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0 px;
+}
+
+li {
+  text-align:center;
+  display: inline;
+}
+.search {
+  text-align:center;
+  width:950;
+    margin: 0 auto;
+
+}
+.box {
+  width:540px;
+}
+.button {
+  height:30px;
+  width:200px;
+  position:relative;
+  margin: 110px 1000px;
+  top:-100px;
+  left:-50px;
+}
+.buttont {
+  height:30px;
+  width:190px;
+  position:relative;
+  margin: 110px 800px;
+  top:-350px;
+  left:-50px;
+}
+#footer {
+  background-color:#A9A9A9;
+  width:absolute;
+  height:70px;
+  position:relative;
+  text-align:left;
+}
