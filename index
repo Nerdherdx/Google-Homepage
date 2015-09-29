@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>A Pen by  Jimmy</title>
+    <title>Google</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 
@@ -40,17 +40,22 @@
 </div>
 <div id="footer">
     <ul>
-        <li>Advertisting</li>
+        <span style="float:left;">Advertising</span>
+
         <li>Business</li>
+
         <li>About</li>
-    </ul>
-</div>
-<div id="footerr">
-    <ul>
-        <li>Privacy</li>
+
+        </ul>
+
+        <span style="float:right;">Privacy</span>
+
         <li>Terms</li>
+
         <li>Settings</li>
+
     </ul>
+
 </div>
 
 

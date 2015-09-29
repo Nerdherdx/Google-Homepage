@@ -8,7 +8,7 @@
 
 }
 ul {
- text-align:right;
+  text-align:right;
   list-style-type: none;
   margin: 0;
   padding: 0 px;
@@ -21,7 +21,7 @@ li {
 .search {
   text-align:center;
   width:950;
-    margin: 0 auto;
+  margin: 0 auto;
 
 }
 .box {
@@ -41,12 +41,13 @@ li {
   position:relative;
   margin: 110px 800px;
   top:-350px;
-  left:-50px;
+  left:-220px;
 }
 #footer {
-  background-color:#A9A9A9;
+  background-color:#E6E6FA;
   width:absolute;
-  height:70px;
+  height:40px;
+  margin-left:absolute;
   position:relative;
   text-align:left;
 }
